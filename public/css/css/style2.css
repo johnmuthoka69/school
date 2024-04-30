@@ -1,0 +1,11 @@
+
+    .center-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Adjust this value based on your needs */
+    }
+
+    .center-form {
+        text-align: left;
+    }
